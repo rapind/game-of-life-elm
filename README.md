@@ -28,4 +28,4 @@ Now run the elm reactor to serve it up:
 elm reactor
 ```
 
-Then open [http://localhost:8000](http://localhost:8000)
+Then open [http://localhost:8000/Main.elm](http://localhost:8000/Main.elm)
