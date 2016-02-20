@@ -1,4 +1,4 @@
-# Elm and Webpack Starter Kit
+# Game of Life (in Elm)
 
 ## Prerequisites
 
@@ -15,13 +15,13 @@ npm install -g elm
 ## Project Installation
 
 ```
-git clone git@github.com:pairshaped/elm-webpack-starter.git
+git clone git@github.com:rapind/game-of-life-elm.git
 ```
 
 After cloning the repository, install all the necessary dependencies:
 
 ```
-cd elm-webpack-starter
+cd game-of-life-elm
 npm install && elm-make
 ```
 
