@@ -4,7 +4,7 @@
     "repository": "https://github.com/rapin/game-of-life-elm.git",
     "license": "BSD-3-Clause",
     "source-directories": [
-        "src/elm"
+        "./"
     ],
     "exposed-modules": [],
     "dependencies": {
